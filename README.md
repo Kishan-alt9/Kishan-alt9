@@ -1,18 +1,243 @@
-# 💫 About Me:
-AI & ML enthusiast building intelligent, production-minded applications with Python, RAG, LLMs, and data. Currently exploring retrieval systems, AI agents, and full-stack AI engineering.<br>
+# 👋 Hey, I'm Kishan
 
+### `AI/ML Engineer in the making`
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Kishan-alt9&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Kishan-alt9&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kishan-alt9&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  $ whoami                                                    │
+│                                                              │
+│  AI/ML Engineer                                              │
+│  Building intelligent systems and learning how AI works      │
+│  under the hood.                                             │
+│                                                              │
+│  $ focus                                                      │
+│                                                              │
+│  Machine Learning  •  Deep Learning  •  Generative AI       │
+│  RAG  •  LLMs  •  Computer Vision  •  AI Engineering        │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kishan-alt9&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+## 🧠 About Me
+
+I'm an aspiring **AI/ML Engineer** focused on building intelligent systems and understanding what happens behind the models I use.
+
+I enjoy learning by building — taking concepts from theory and turning them into practical applications. My interests span **Machine Learning, Deep Learning, Generative AI, LLMs, RAG systems, Computer Vision, NLP, and AI Engineering**.
+
+I'm particularly interested in moving beyond simply training models and learning how to build **complete, production-oriented AI systems** — from data processing and model development to APIs, databases, deployment, and scalable infrastructure.
+
+Currently, I'm strengthening my foundations in **Python, Machine Learning, Deep Learning, software engineering, backend development, and AI system design**.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Kishan-alt9&icon=2&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Working Toward
+
+```text
+                    AI / ML
+                       │
+                       ▼
+              Model Development
+                       │
+                       ▼
+              AI Applications
+                       │
+                       ▼
+                   FastAPI
+                       │
+                       ▼
+               Databases / APIs
+                       │
+                       ▼
+                    Docker
+                       │
+                       ▼
+                Cloud / Deployment
+                       │
+                       ▼
+             Production AI Systems
+```
+
+My goal is to become an engineer who can take an AI idea from **concept → model → application → deployment**.
+
+---
+
+# ⚙️ Tech Stack
+
+## 🤖 AI / Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
+
+## 🧠 Generative AI
+
+![LLM](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-3776AB?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge)
+
+## ⚡ AI Engineering & Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+
+## 🗄️ Databases & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge\&logo=apache-kafka\&logoColor=white)
+
+## 🌐 Full-Stack Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+## 🐳 DevOps & Version Control
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+# 🔨 What I Build
+
+```text
+├── Machine Learning Systems
+├── Deep Learning Experiments
+├── RAG Applications
+├── LLM-powered Tools
+├── Computer Vision Applications
+├── AI-powered APIs
+├── Data-driven Applications
+└── End-to-End AI Projects
+```
+
+I'm especially interested in projects where different parts of the stack come together:
+
+```text
+Data
+ ↓
+ML / DL Model
+ ↓
+AI Application
+ ↓
+FastAPI
+ ↓
+Database
+ ↓
+Docker
+ ↓
+Frontend
+ ↓
+Deployment
+```
+
+---
+
+# 📚 Currently Learning
+
+```text
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+Generative AI
+      ↓
+LLMs + RAG
+      ↓
+AI Engineering
+      ↓
+Backend Development
+      ↓
+Docker + Deployment
+      ↓
+Scalable AI Systems
+```
+
+I'm continuously experimenting with new tools and technologies and using projects to turn what I learn into practical experience.
+
+---
+
+# 📂 Projects
+
+### 🤖 AI / ML Projects
+
+> Building projects around machine learning, deep learning, NLP, computer vision, and generative AI.
+
+### 🧠 RAG & LLM Applications
+
+> Exploring retrieval-augmented generation, embeddings, vector search, and LLM-powered applications.
+
+### ⚡ AI Engineering
+
+> Building APIs, backend systems, databases, and deployable applications around machine learning models.
+
+### 🌐 Full-Stack AI Applications
+
+> Experimenting with React, Node.js, FastAPI, databases, and AI models to create complete applications.
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishan-alt9\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-alt9\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
+# 🎯 My Goal
+
+I want to become an **AI/ML Engineer capable of building production-ready intelligent systems**, not just training models in notebooks.
+
+I'm working toward understanding the complete AI engineering lifecycle:
+
+```text
+Problem
+  ↓
+Data
+  ↓
+Model
+  ↓
+Evaluation
+  ↓
+API
+  ↓
+Database
+  ↓
+Containerization
+  ↓
+Deployment
+  ↓
+Monitoring
+```
+
+---
+
+# 💡 Philosophy
+
+> **Learn the fundamentals. Build constantly. Break things. Understand why they broke. Build again.**
+
+I use GitHub as a record of that journey — from small experiments to increasingly complex AI systems.
+
+---
+
+<div align="center">
+
+### `> Keep building. Keep learning. Keep experimenting. 🤖`
+
+</div>
+
