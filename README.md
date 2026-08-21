@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./ascii.svg" width="840" alt="Animated ASCII portrait">
+
+</div>
+
 # 👋 Hey, I'm Kishan
 
 ### `AI/ML Engineer in the making`
